@@ -28,7 +28,7 @@ Enjoy this library? Try them all! [React Table](https://github.com/tannerlinsley
   <img src='https://github.com/tanstack/ranger/raw/main/media/screenshot.png' width="700"/>
 </p>
 
-## Visit [/docs](https://github.com/tanstack/react-ranger/tree/alpha/docs) for docs, guides, API and more!
+## Visit [/docs](https://github.com/TanStack/ranger/tree/main/docs) for docs, guides, API and more!
 
 ## Quick Features
 
